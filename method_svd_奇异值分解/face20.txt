@@ -1,0 +1,2 @@
+num_train = 5;num_hidden = 60;func_hidden=tansig;func_out = purelin；trainfunc = trainrp; goal = 0.005; epochs = 20000; learn_rate = 0.01;8块
+这是特征向量第1维的值
